@@ -1,7 +1,7 @@
 package pac19;
 
 import java.util.ArrayList;
-//PULL OPERATION
+//PULL OPERATION 123
 //public class PredicateExample {
 public class Predicate {
 
